@@ -1,0 +1,1 @@
+<p style="text-align:right;"> <a class="btn-medium btn-medium-main" href="[field:typeurl /]" target="_blank" title=""><span>查看详情 &gt;&gt;</span></a></p>

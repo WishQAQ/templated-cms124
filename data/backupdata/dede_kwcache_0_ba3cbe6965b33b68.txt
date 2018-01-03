@@ -1,0 +1,17 @@
+INSERT INTO `dede_kwcache` VALUES('1','11','http://search.youa.com/list?cid=02f950a4140ab7775c2670f9&amp;locid=75fb2a357d38397c5e1e75fa&amp;tn=ald');
+INSERT INTO `dede_kwcache` VALUES('2','11','http://www.youa.com/biz/5e1e02f954db140ab2757184?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('3','11','http://www.youa.com/biz/5e1e02f954db140ab2757184/pic/albumlist?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('4','11','http://www.youa.com/biz/5e1e02f954db140ab2757184/coupon?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('5','11','http://www.youa.com/biz/6edbb892b18c048c83e9529d?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('6','11','http://www.youa.com/biz/6edbb892b18c048c83e9529d/pic/albumlist?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('7','11','http://www.youa.com/biz/c86e2dcf9f29aed477bcdd8a?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('8','11','http://www.youa.com/biz/c86e2dcf9f29aed477bcdd8a/pic/albumlist?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('9','11','http://www.youa.com/biz/02f950a4116eb2755c26709f?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('10','11','http://www.youa.com/biz/02f950a4116eb2755c26709f/pic/albumlist?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('11','11','http://www.youa.com/biz/02f950a4116eb2755c26709f/coupon?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('12','11','http://www.youa.com/biz/b5ebc5dbca89dffb82310292?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('13','11','http://www.youa.com/biz/b5ebc5dbca89dffb82310292/pic/albumlist?tn=ald');
+INSERT INTO `dede_kwcache` VALUES('14','11','http://search.youa.com/list?cid=02f950a4140ab7775c2670f9&locid=75fb2a357d38397c5e1e75fa&tn=ald');
+INSERT INTO `dede_kwcache` VALUES('15','11','http://service.qianlong.com/48624/2011/08/03/6044@7227009.htm ');
+INSERT INTO `dede_kwcache` VALUES('16','11','http://www.chinadaily.com.cn/dfpd/yunnan/2011-08-02/content_3372515.html ');
+INSERT INTO `dede_kwcache` VALUES('17','11','http://www.ce.cn/macro/more/201108/01/t20110801_22578801.shtml ');

@@ -1,0 +1,1 @@
+<div class="back-category"><a href="[field:typelink /]"><span>View More</span> <span>[field:typename /]</span></a></div>

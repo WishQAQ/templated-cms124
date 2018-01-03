@@ -1,0 +1,1 @@
+<p> <a href="[field:typelink /]" target="_blank"><img alt="[field:typename /]" src="/skin/img/c2943c28-0825-4716-a47c-54c00ee2d7c6.jpg" style="width: 270px; height: 337px;" /></a></p>
